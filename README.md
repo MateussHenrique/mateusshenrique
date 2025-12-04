@@ -32,6 +32,6 @@
 
  <div>
 	<a href="https://beacons.ai/MateussHenrique">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateussHenrique&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusshenrique&layout=compact&langs_count=16&theme=dracula" />
 
 </div>
