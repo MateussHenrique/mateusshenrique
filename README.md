@@ -28,10 +28,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 </p>
   
-  ##
-
- <div>
-	<a href="https://beacons.ai/MateussHenrique">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateussHenrique&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
