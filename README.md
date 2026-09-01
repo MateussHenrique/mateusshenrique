@@ -1,9 +1,11 @@
 ## Olá, eu sou o Mateus Henrique!!
 
 ### 🧑‍💻 Sobre mim
+### Desenvolvedor Backend Java
 
-- 🎓 Sou estudante de Engenharia de Software.
-- 💡 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, algoritmos e técnicas de resolução de problemas.
+🎓 Estudante de Engenharia de Software  
+💻 Focado em desenvolvimento Backend com Java e Spring Boot  
+🚀 Atualmente aprofundando conhecimentos em APIs REST, SQL e Spring AI
 
 ---
 ### 📞 Contato
