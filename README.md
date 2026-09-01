@@ -1,13 +1,78 @@
-## Olá, eu sou o Mateus Henrique!!
+# Olá! Eu sou o Mateus Henrique 👋
 
-### 🧑‍💻 Sobre mim
-### Desenvolvedor Backend Java
+## 💻 Desenvolvedor Backend Java
 
-🎓 Estudante de Engenharia de Software  
-💻 Focado em desenvolvimento Backend com Java e Spring Boot  
-🚀 Atualmente aprofundando conhecimentos em APIs REST, SQL e Spring AI
+🎓 Estudante de Engenharia de Software
+
+🚀 Focado em desenvolvimento Backend com Java e Spring Boot.
+
+Atualmente aprofundando meus conhecimentos em:
+- Java
+- Spring Boot
+- APIs REST
+- Spring Security
+- Spring Data JPA
+- SQL
+- Spring AI
+- Design Patterns
+- Clean Architecture
 
 ---
+
+## 🛠️ Tecnologias
+
+### Backend
+Java • Spring Boot • Spring Security • Spring Data JPA • Spring AI
+
+### Banco de Dados
+SQL • MySQL
+
+### Ferramentas
+Git • GitHub • Maven
+
+### Conceitos
+POO • SOLID • Design Patterns • Clean Architecture • DDD
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🤖 Assistente Virtual Java
+
+Aplicação desenvolvida com Java e Spring Boot explorando
+integração com Inteligência Artificial, processamento de
+áudio e arquitetura de aplicações Backend.
+
+**Tecnologias:** Java, Spring Boot, Spring AI, APIs REST.
+
+### 🌦️ Weather API
+
+API REST desenvolvida com Java e Spring Boot para consulta
+de informações climáticas através de integração com serviço externo.
+
+**Tecnologias:** Java, Spring Boot, Maven, REST API.
+
+### 📦 Sistema de Pedidos e Entregas
+
+Projeto desenvolvido em Java aplicando Programação Orientada
+a Objetos e Design Patterns.
+
+**Tecnologias:** Java, POO, Factory Method, Abstract Factory.
+
+---
+
+## 📚 Atualmente estudando
+
+- Java
+- Spring Boot
+- APIs REST
+- Banco de Dados
+- Spring Security
+- Spring AI
+- Arquitetura de Software
+
+---
+
 ### 📞 Contato
 
 <p align="left">
